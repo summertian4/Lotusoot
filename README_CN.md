@@ -1,5 +1,7 @@
 # Lotusoot 
 
+# 项目已经移到 [这里])(https://github.com/Vegetarians/Lotusoot) 啦
+
 ![](res/Lotusoot-logo.png)
 
 ![](https://img.shields.io/badge/language-swift-orange.svg) ![](https://img.shields.io/cocoapods/l/Lotusoot.svg?style=flat) ![](https://img.shields.io/cocoapods/v/Lotusoot.svg?style=flat) [![](https://img.shields.io/badge/weibo-@小鱼周凌宇-red.svg)](http://weibo.com/coderfish)
