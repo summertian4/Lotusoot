@@ -1,6 +1,6 @@
 # Lotusoot 
 
-# 项目已经移到 [这里])(https://github.com/Vegetarians/Lotusoot) 啦
+# 项目已经移到 [这里](https://github.com/Vegetarians/Lotusoot) 啦
 
 ![](res/Lotusoot-logo.png)
 
